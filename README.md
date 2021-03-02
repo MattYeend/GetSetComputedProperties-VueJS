@@ -1,0 +1,1 @@
+"# GetSetComputedProperties-VueJS" 
